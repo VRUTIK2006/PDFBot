@@ -267,20 +267,3 @@ Asks a question about the indexed PDF.
 | Orb looks small on a short screen | By design: it fits itself into the space above the chat controls |
 
 ---
-
-## Roadmap
-
-- [ ] Streaming answers (server-sent events)
-- [ ] Multi-PDF support with per-session indexes
-- [ ] Persistent vector store (SQLite, pgvector, or Chroma)
-- [ ] OCR for scanned PDFs
-- [ ] Page-number citations in the sources
-- [ ] Conversation memory (follow-up questions)
-- [ ] Docker setup and deployment guide
-
----
-
-## License
-
-MIT. Free to use, modify and share.
->>>>>>> c47e038 (First Commit)
