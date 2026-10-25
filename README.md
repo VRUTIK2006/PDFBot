@@ -1,3 +1,4 @@
+PDFBot
 **Chat with any PDF through a living 3D "Knowledge Orb".**
 PDFBot is a Retrieval-Augmented Generation (RAG) app: upload a PDF, and ask questions that are answered strictly from the document's content. The UI turns the RAG pipeline into something you can *see*: your document becomes a constellation of stars, and every question fires beams to the exact chunks the model used.
 
